@@ -14,6 +14,7 @@
   <img alt="Architecture" src="https://img.shields.io/badge/Architecture-6%20Phase-0EA5E9" />
   <img alt="Security" src="https://img.shields.io/badge/Security-Air--Gapped%20First-22C55E" />
   <img alt="Tests" src="https://img.shields.io/badge/Tests-35%20Passing-22C55E" />
+  <a href="LICENSE"><img alt="License" src="https://img.shields.io/badge/License-MIT-0EA5E9" /></a>
 </p>
 
 <p align="center">
