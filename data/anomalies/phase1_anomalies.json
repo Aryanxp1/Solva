@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "anomaly_uid": "1:amount:null_block_error",
+    "column_name": "amount",
+    "value": null,
+    "error_type": "null_block_error",
+    "anomaly_hint": "value is missing or sentinel null",
+    "source_phase": "phase1_ingestion",
+    "source_row": {
+      "id": 1,
+      "customer_email": "alice@example.com"
+    }
+  }
+]
