@@ -155,6 +155,7 @@ project_solva/
 ├── config.py
 ├── requirements.txt
 ├── README.md
+├── LICENSE
 ├── data/
 ├── docs/
 ├── logs/
