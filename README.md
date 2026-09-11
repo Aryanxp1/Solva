@@ -320,3 +320,15 @@ Interpretation:
 - Add richer CLI configuration and schema-path prompting.
 - Add scheduler and API-driven triggers on top of the current interactive runner.
 - Expand deployment, monitoring, and production storage adapters beyond local artifacts.
+
+## License
+
+This project is released under the MIT License.
+
+- License file: [LICENSE](LICENSE)
+- SPDX identifier: `MIT`
+- Copyright (c) 2026 Aryan Vishwakarma
+
+You are free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of this software, provided the copyright and permission notice are included in all copies or substantial portions of the software.
+
+The software is provided "as is", without warranty of any kind, express or implied. See the [LICENSE](LICENSE) file for the complete terms.
