@@ -119,7 +119,7 @@ Key highlights:
 - Air-gapped local SLMs for deterministic remediation logic.
 - Deterministic validation layers that protect data quality and auditability.
 
-[Read the full Technical Research Report](https://docs.google.com/document/d/1cKEBZS5nA8fz5g_W1S8T49I5LjeO96xW/edit?usp=drivesdk&ouid=117337334576397276483&rtpof=true&sd=true)
+[Read the full Technical Research Report](https://docs.google.com/document/d/18OxN0zIwTQbQerZyc0kZhlI6RVxbouvK/edit?usp=sharing&ouid=105640942361964521743&rtpof=true&sd=true)
 
 ## Current implementation status
 
